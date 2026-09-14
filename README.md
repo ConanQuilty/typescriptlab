@@ -1,0 +1,1 @@
+# Typescript lab 1
